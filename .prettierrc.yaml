@@ -1,5 +1,4 @@
 ---
-jsxBracketSameLine: false
-semi: false
+semi: true
 singleQuote: true
 trailingComma: es5

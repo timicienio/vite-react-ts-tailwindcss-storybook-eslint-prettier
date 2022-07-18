@@ -16,9 +16,10 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:@typescript-eslint/recommended',
     'plugin:prettier/recommended',
+    'plugin:storybook/recommended',
   ],
   rules: {
     // Place to specify ESLint rules. Can be used to overwrite rules specified from the extended configs
     // e.g. "@typescript-eslint/explicit-function-return-type": "off",
   },
-}
+};
